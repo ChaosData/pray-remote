@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+
+require 'pray-remote'
+PrayRemote::CLI.new.run
